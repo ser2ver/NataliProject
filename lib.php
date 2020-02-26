@@ -9,6 +9,7 @@ function showHeader($path, $title, $section)
     $activeCategs = $section === 'categs' ? ' active' : '';
     $activeBesson = $section === 'besson' ? ' active' : '';
     $activeAuthor = $section === 'author' ? ' active' : '';
+    $activeProject = $section === 'project' ? ' active' : '';
 
     $text = <<<EOT
 <!DOCTYPE html>
@@ -37,11 +38,11 @@ function showHeader($path, $title, $section)
                 <a class="nav-item nav-link{$activeCategs}" href="{$path}categories.php">Категории</a>
                 <a class="nav-item nav-link{$activeBesson}" href="{$path}bessonovka.php">О Бессоновке</a>
                 <a class="nav-item nav-link{$activeAuthor}" href="{$path}author.php">Об авторе</a>
+                <a class="nav-item nav-link{$activeProject}" href="{$path}project.php">О проекте</a>
             </div>
         </div>
     </header>
 EOT;
-
     return $text;
 }
 
