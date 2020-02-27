@@ -1,7 +1,7 @@
 <?php
 $path = '';
 include $path.'lib.php';
-echo showHeader($path, 'Проект - Бессоновка', 'besson');
+echo showHeader($path, 'Проект - Об авторе', 'author');
 ?>
 <div class="container-fluid">
     <nav aria-label="breadcrumb">
