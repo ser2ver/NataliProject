@@ -25,7 +25,7 @@ function showHeader($path, $title, $section)
     <script src="{$path}js/bootstrap.min.js"></script>
 </head>
 <body>
-    <header class="navbar navbar-expand-sm navbar-light sticky-top" style="background-color: #e3f2fd;">
+    <header class="navbar navbar-expand-sm navbar-light sticky-top" style="background-color: #96bcfe;">
         <a href="{$path}index.php" class="navbar-brand">
             <img src="{$path}img/logo.png" alt="Animals & Plants">
         </a>
