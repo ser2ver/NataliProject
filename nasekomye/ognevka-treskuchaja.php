@@ -9,10 +9,10 @@ echo showHeader($path, 'Проект - Категории - Насекомые -
             <li class="breadcrumb-item"><a href="<?= $path ?>index.php">Главная</a></li>
             <li class="breadcrumb-item"><a href="<?= $path ?>categories.php">Категории</a></li>
             <li class="breadcrumb-item"><a href="<?= $path ?>nasekomye/index.php">Насекомые</a></li>
-            <li class="breadcrumb-item active" aria-current="page">Красотка-девушка</li>
+            <li class="breadcrumb-item active" aria-current="page">Огневка трескучая</li>
         </ol>
     </nav>
-    <h4 class="text-center">Красотка-девушка</h4>
+    <h4 class="text-center">Огневка трескучая</h4>
 
     <div id="gallery" class="carousel slide float-left" data-ride="carousel" style="width: 600px; margin-right: 10px;">
         <ol class="carousel-indicators">
@@ -22,13 +22,13 @@ echo showHeader($path, 'Проект - Категории - Насекомые -
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/krasotka-devushka1.jpg" class="d-block w-100" alt="1">
+                <img src="img/ognevka-treskuchaja1.jpg" class="d-block w-100" alt="1">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotka-devushka2.jpg" class="d-block w-100" alt="2">
+                <img src="img/ognevka-treskuchaja2.jpg" class="d-block w-100" alt="2">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotka-devushka3.jpg" class="d-block w-100" alt="3">
+                <img src="img/ognevka-treskuchaja3.jpg" class="d-block w-100" alt="3">
             </div>
         </div>
         <a class="carousel-control-prev" href="#gallery" role="button" data-slide="prev">
@@ -42,15 +42,30 @@ echo showHeader($path, 'Проект - Категории - Насекомые -
     </div>
 
     <div class="list-group">
-        <div class="list-group-item">Небольшая стрекоза из семейства красоток полностью оправдывает свое название красотка-девушка. Тело самца сине-зеленое с металлическим отливом, самки – бронзово зеленое. Глянцевый блеск хитинового покрова создает неповторимое впечатление. Длина насекомого 45-49 мм, размер крыла – 30 мм. Отличительной характеристикой вида Calopteryx virgo является отсутствие птеростигмы – утолщения у передней кромки крыла.</div>
-        <div class="list-group-item">Они выбирают озера, медленно текущие реки, ручьи, для жизни им даже подходят болота. Основное условие – достаточное количество водной растительности, так как на стеблях растений самки откладывают яйца.</div>
-        <div class="list-group-item">Жизнь у этих красавиц не продолжительная: с апреля по октябрь. За эти несколько месяцев самка должна выполнить свое главное предназначение – отложить яйца. В кладке одной самки находиться 250-300 яиц.</div>
+        <div class="list-group-item">Длина тела самца 23-25 мм, самки - 30-40 мм. Окраска тела самца черная или темно-коричневая, самки - бурая или светло-коричневая. Надкрылья в расплывчатых темных пятнах и точках, у самцов надкрылья не достигают вершины брюшка. Крылья киноварно-красного цвета, непрозрачные, с черной вершиной.</div>
+
+        <div class="list-group-item">
+            <p>Ареал обитания Северная и Центральная Европа, Южная Сибирь, Северный Казахстан, Монголия, Корея. В Нижегородской области отмечалась из окрестностей г. Дзержинска, г. Н. Новгорода, в Кстовском и Семеновском районах, из окрестностей д. Головино Чкаловского р-на.</p>
+            <p>Места обитания: На европейской территории России обитает преимущественно в полосе смешанных и широколиственных лесов и в лесостепи, встречается на открытых участках, сухих лужайках, вересковых полянах, прогалинах с проективным покрытием травостоя 60-80%, в лесостепной полосе - на остепненных участках по опушкам лесов.</p>
+            <p style="margin-bottom: 0">Уничтожение или деградация мест обитания в результате строительства, распашки, перевыпаса скота. Специальные меры охраны не принимались.</p>
+        </div>
+
+        <div class="list-group-item">
+            <p>Численность и тенденции ее изменения: Встречается спорадически. Во всех известных местах обитания численность невысока и имеет тенденцию к сокращению.</p>
+            <p style="margin-bottom: 0">Держится на почве, на растения не взбирается, поедает листья злаков, сложноцветных, гераниевых, подорожников, реже - бобовых. Самцы в полете громко трещат крыльями, самки не летают. Кубышку, содержащую 12-38 яиц, самка откладывает в почву.</p>
+        </div>
         <div class="list-group-item">
             Ссылки:
             <ul>
-                <li><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%BA%D0%B0-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0" target="_blank">Википедия</a></li>
+                <li><a href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B3%D0%BD%D1%91%D0%B2%D0%BA%D0%B0_%D1%82%D1%80%D0%B5%D1%81%D0%BA%D1%83%D1%87%D0%B0%D1%8F" target="_blank">Википедия</a></li>
             </ul>
         </div>
     </div>
+
+
+
+
+
+
 </div>
 <?= showFooter($path) ?>
