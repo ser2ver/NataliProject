@@ -28,14 +28,14 @@ echo showHeader($path, 'Проект - Категории - Насекомые',
         </div>
     </div>
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <img src="<?= $path ?>nasekomye/img/krasotka-devushka1.jpg" class="card-img-top" alt="Красотел пахучий">
+        <img src="<?= $path ?>nasekomye/img/krasotel-pahuchij1.jpg" class="card-img-top" alt="Красотел пахучий">
         <div class="card-body">
             <h5 class="card-title">Красотел пахучий</h5>
             <a href="<?= $path ?>nasekomye/krasotel-pahuchij.php" class="card-link stretched-link">Перейти</a>
         </div>
     </div>
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <img src="<?= $path ?>nasekomye/img/krasotka-devushka1.jpg" class="card-img-top" alt="Поликсена">
+        <img src="<?= $path ?>nasekomye/img/poliksena1.jpg" class="card-img-top" alt="Поликсена">
         <div class="card-body">
             <h5 class="card-title">Поликсена</h5>
             <a href="<?= $path ?>nasekomye/poliksena.php" class="card-link stretched-link">Перейти</a>

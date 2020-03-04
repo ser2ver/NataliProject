@@ -22,13 +22,13 @@ echo showHeader($path, 'Проект - Категории - Насекомые -
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/krasotka-devushka1.jpg" class="d-block w-100" alt="1">
+                <img src="img/poliksena1.jpg" class="d-block w-100" alt="1">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotka-devushka2.jpg" class="d-block w-100" alt="2">
+                <img src="img/poliksena2.jpg" class="d-block w-100" alt="2">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotka-devushka3.jpg" class="d-block w-100" alt="3">
+                <img src="img/poliksena3.jpg" class="d-block w-100" alt="3">
             </div>
         </div>
         <a class="carousel-control-prev" href="#gallery" role="button" data-slide="prev">

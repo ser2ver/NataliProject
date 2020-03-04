@@ -19,16 +19,20 @@ echo showHeader($path, 'Проект - Категории - Насекомые -
             <li data-target="#gallery" data-slide-to="0" class="active">1</li>
             <li data-target="#gallery" data-slide-to="1">2</li>
             <li data-target="#gallery" data-slide-to="2">3</li>
+            <li data-target="#gallery" data-slide-to="3">4</li>
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/krasotka-devushka1.jpg" class="d-block w-100" alt="1">
+                <img src="img/krasotel-pahuchij1.jpg" class="d-block w-100" alt="1">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotka-devushka2.jpg" class="d-block w-100" alt="2">
+                <img src="img/krasotel-pahuchij2.jpg" class="d-block w-100" alt="2">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotka-devushka3.jpg" class="d-block w-100" alt="3">
+                <img src="img/krasotel-pahuchij3.jpg" class="d-block w-100" alt="3">
+            </div>
+            <div class="carousel-item">
+                <img src="img/krasotel-pahuchij4.jpg" class="d-block w-100" alt="3">
             </div>
         </div>
         <a class="carousel-control-prev" href="#gallery" role="button" data-slide="prev">
@@ -49,7 +53,7 @@ echo showHeader($path, 'Проект - Категории - Насекомые -
         <div class="list-group-item">
             Ссылки:
             <ul>
-                <li><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%BA%D0%B0-%D0%B4%D0%B5%D0%B2%D1%83%D1%88%D0%BA%D0%B0" target="_blank">Википедия</a></li>
+                <li><a href="https://ru.wikipedia.org/wiki/%D0%9A%D1%80%D0%B0%D1%81%D0%BE%D1%82%D0%B5%D0%BB_%D0%BF%D0%B0%D1%85%D1%83%D1%87%D0%B8%D0%B9" target="_blank">Википедия</a></li>
             </ul>
         </div>
     </div>
