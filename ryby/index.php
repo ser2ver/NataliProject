@@ -14,17 +14,10 @@ echo showHeader($path, 'Проект - Категории - Рыбы', 'categs')
     <h4 class="text-center">Рыбы</h4>
 
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <div class="card-header">Красотка-девушка</div>
+        <img src="<?= $path ?>ryby/img/bystrjanka-russkaja1.jpg" class="card-img-top" alt="Быстрянка русская">
         <div class="card-body">
-            <p class="card-text">Красотка-девушка</p>
-            <a href="<?= $path ?>nasekomye/krasotka-devushka.php" class="card-link stretched-link">Перейти</a>
-        </div>
-    </div>
-    <div class="card float-left m-sm-1" style="width: 18rem;">
-        <div class="card-header">Красотка-девушка</div>
-        <div class="card-body">
-            <p class="card-text">Красотка-девушка</p>
-            <a href="<?= $path ?>nasekomye/krasotka-devushka.php" class="card-link stretched-link">Перейти</a>
+            <h5 class="card-title">Быстрянка русская</h5>
+            <a href="<?= $path ?>ryby/bystrjanka-russkaja.php" class="card-link stretched-link">Перейти</a>
         </div>
     </div>
 </div>
