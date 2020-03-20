@@ -8,7 +8,7 @@ echo showHeader($path, 'Проект - Категории - Растения - �
         <ol class="breadcrumb">
             <li class="breadcrumb-item"><a href="<?= $path ?>index.php">Главная</a></li>
             <li class="breadcrumb-item"><a href="<?= $path ?>categories.php">Категории</a></li>
-            <li class="breadcrumb-item"><a href="<?= $path ?>pticy/index.php">Растения</a></li>
+            <li class="breadcrumb-item"><a href="<?= $path ?>rastenija/index.php">Растения</a></li>
             <li class="breadcrumb-item active" aria-current="page">Ива лапландская</li>
         </ol>
     </nav>
@@ -19,20 +19,16 @@ echo showHeader($path, 'Проект - Категории - Растения - �
             <li data-target="#gallery" data-slide-to="0" class="active">1</li>
             <li data-target="#gallery" data-slide-to="1">2</li>
             <li data-target="#gallery" data-slide-to="2">3</li>
-            <li data-target="#gallery" data-slide-to="3">4</li>
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/krasotel-pahuchij1.jpg" class="d-block w-100" alt="1">
+                <img src="img/iva-laplandskaja1.jpg" class="d-block w-100" alt="1">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotel-pahuchij2.jpg" class="d-block w-100" alt="2">
+                <img src="img/iva-laplandskaja2.jpg" class="d-block w-100" alt="2">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotel-pahuchij3.jpg" class="d-block w-100" alt="3">
-            </div>
-            <div class="carousel-item">
-                <img src="img/krasotel-pahuchij4.jpg" class="d-block w-100" alt="3">
+                <img src="img/iva-laplandskaja3.jpg" class="d-block w-100" alt="3">
             </div>
         </div>
         <a class="carousel-control-prev" href="#gallery" role="button" data-slide="prev">
