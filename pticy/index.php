@@ -14,37 +14,37 @@ echo showHeader($path, 'Проект - Категории - Птицы', 'categs
     <h4 class="text-center">Птицы</h4>
 
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <div class="card-header">Лазоревка белая</div>
+        <img src="<?= $path ?>pticy/img/lazorevka-belaja1.jpg" class="card-img-top" alt="Лазоревка белая">
         <div class="card-body">
-            <p class="card-text">Лазоревка белая</p>
+            <h5 class="card-title">Лазоревка белая</h5>
             <a href="<?= $path ?>pticy/lazorevka-belaja.php" class="card-link stretched-link">Перейти</a>
         </div>
     </div>
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <div class="card-header">Змееяд</div>
+        <img src="<?= $path ?>pticy/img/zmeejad1.jpg" class="card-img-top" alt="Змееяд">
         <div class="card-body">
-            <p class="card-text">Змееяд</p>
+            <h5 class="card-title">Змееяд</h5>
             <a href="<?= $path ?>pticy/zmeejad.php" class="card-link stretched-link">Перейти</a>
         </div>
     </div>
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <div class="card-header">Ходулочник</div>
+        <img src="<?= $path ?>pticy/img/hodulochnik1.jpg" class="card-img-top" alt="Ходулочник">
         <div class="card-body">
-            <p class="card-text">Ходулочник</p>
+            <h5 class="card-title">Ходулочник</h5>
             <a href="<?= $path ?>pticy/hodulochnik.php" class="card-link stretched-link">Перейти</a>
         </div>
     </div>
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <div class="card-header">Выпь малая</div>
+        <img src="<?= $path ?>pticy/img/vyp-malaja1.jpg" class="card-img-top" alt="Выпь малая">
         <div class="card-body">
-            <p class="card-text">Выпь малая</p>
+            <h5 class="card-title">Выпь малая</h5>
             <a href="<?= $path ?>pticy/vyp-malaja.php" class="card-link stretched-link">Перейти</a>
         </div>
     </div>
     <div class="card float-left m-sm-1" style="width: 18rem;">
-        <div class="card-header">Лунь полевой</div>
+        <img src="<?= $path ?>pticy/img/lun-polevoi1.jpg" class="card-img-top" alt="Лунь полевой">
         <div class="card-body">
-            <p class="card-text">Лунь полевой</p>
+            <h5 class="card-title">Лунь полевой</h5>
             <a href="<?= $path ?>pticy/lun-polevoi.php" class="card-link stretched-link">Перейти</a>
         </div>
     </div>

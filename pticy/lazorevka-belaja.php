@@ -19,20 +19,16 @@ echo showHeader($path, 'Проект - Категории - Птицы - Лаз�
             <li data-target="#gallery" data-slide-to="0" class="active">1</li>
             <li data-target="#gallery" data-slide-to="1">2</li>
             <li data-target="#gallery" data-slide-to="2">3</li>
-            <li data-target="#gallery" data-slide-to="3">4</li>
         </ol>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="img/krasotel-pahuchij1.jpg" class="d-block w-100" alt="1">
+                <img src="img/lazorevka-belaja1.jpg" class="d-block w-100" alt="1">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotel-pahuchij2.jpg" class="d-block w-100" alt="2">
+                <img src="img/lazorevka-belaja2.jpg" class="d-block w-100" alt="2">
             </div>
             <div class="carousel-item">
-                <img src="img/krasotel-pahuchij3.jpg" class="d-block w-100" alt="3">
-            </div>
-            <div class="carousel-item">
-                <img src="img/krasotel-pahuchij4.jpg" class="d-block w-100" alt="3">
+                <img src="img/lazorevka-belaja3.jpg" class="d-block w-100" alt="3">
             </div>
         </div>
         <a class="carousel-control-prev" href="#gallery" role="button" data-slide="prev">
@@ -59,8 +55,5 @@ echo showHeader($path, 'Проект - Категории - Птицы - Лаз�
             </ul>
         </div>
     </div>
-
-
-
 </div>
 <?= showFooter($path) ?>
