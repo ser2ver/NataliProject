@@ -11,5 +11,9 @@ echo showHeader($path, 'Проект - Об авторе', 'author');
         </ol>
     </nav>
     <h4 class="text-center">Об авторе</h4>
+
+    <p><b>Кальченко Наталия</b></p>
+    <p>ученица <b>11 «А»</b> класса МБОУ СОШ c. Бессоновка</p>
+
 </div>
 <?= showFooter($path) ?>

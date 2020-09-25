@@ -11,7 +11,10 @@ echo showHeader($path, 'Проект - О проекте', 'project');
         </ol>
     </nav>
     <h4 class="text-center">О проекте</h4>
-    <p>В работе над проектом были использованы следующие инструменты:</p>
+    <p>
+        В работе над проектом были использованы следующие инструменты:
+        <img src="img/qr-code.gif" alt="QR-code" class="float-right"/>
+    </p>
     <ul>
         <li>HTML</li>
         <li>CSS</li>
