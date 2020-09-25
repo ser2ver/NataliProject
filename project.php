@@ -27,5 +27,9 @@ echo showHeader($path, 'Проект - О проекте', 'project');
         <li>Gimp</li>
         <li>Linux</li>
     </ul>
+    <p>
+        Исходный код проекта доступен по адесу:<br/>
+        <a href="https://github.com/ser2ver/NataliProject">https://github.com/ser2ver/NataliProject</a>
+    </p>
 </div>
 <?= showFooter($path) ?>
