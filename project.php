@@ -28,6 +28,10 @@ echo showHeader($path, 'Проект - О проекте', 'project');
         <li>Linux</li>
     </ul>
     <p>
+        Проект доступен по адесу:<br/>
+        <a href="https://senode.azurewebsites.net/">https://senode.azurewebsites.net/</a>
+    </p>
+    <p>
         Исходный код проекта доступен по адесу:<br/>
         <a href="https://github.com/ser2ver/NataliProject">https://github.com/ser2ver/NataliProject</a>
     </p>
