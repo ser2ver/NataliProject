@@ -17,7 +17,7 @@ echo showHeader($path, 'Проект', 'home');
             Выполнила: ученица 11 «А» класса<br/>
             <b>Кальченко Наталия</b>
         </p>
-        <p class="text-right">Руководитель: <b>Татьяна Ивановна</b></p>
+        <p class="text-right">Руководитель: <b>Атаманова Т. И.</b></p>
     </div>
 </div>
 <?= showFooter($path) ?>
